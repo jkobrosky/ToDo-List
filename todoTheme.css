@@ -1,0 +1,16 @@
+div.container {
+	border: solid 2px;
+	height: 67%px;
+	width: 23%;
+	text-align: center;
+}
+
+#addItem {
+	font-size: 20px,
+	color: green;
+}
+
+#removeItem {
+	font-size: 20px,
+	color: red;
+}
